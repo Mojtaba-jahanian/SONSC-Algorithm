@@ -1,0 +1,17 @@
+SONSC Clustering Results on MNIST
+================================
+
+Dataset Shape: (10000, 784)
+Number of Clusters Found: 8
+RCI Score: -0.9902
+Execution Time: 579.14 seconds
+
+Cluster Sizes:
+Cluster 0: 2152 samples
+Cluster 1: 2 samples
+Cluster 2: 2228 samples
+Cluster 3: 1430 samples
+Cluster 4: 1299 samples
+Cluster 5: 660 samples
+Cluster 6: 1340 samples
+Cluster 7: 889 samples
